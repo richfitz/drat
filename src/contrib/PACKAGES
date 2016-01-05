@@ -41,3 +41,11 @@ License: MIT + file LICENSE
 MD5sum: 82eacb57d539ef33bfe9e79ba4a28cef
 NeedsCompilation: no
 
+Package: toxiproxyr
+Version: 0.0.1
+Imports: R6, httr, jsonlite
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: dde5e34198a12601da46e1a44435a268
+NeedsCompilation: no
+
