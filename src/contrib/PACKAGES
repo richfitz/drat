@@ -17,6 +17,16 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 419dc81b49c3060dd130f4d4790e0402
 NeedsCompilation: no
 
+Package: jqr
+Version: 0.1.7.9330
+Depends: R (>= 3.1.2)
+Imports: Rcpp, lazyeval, magrittr
+LinkingTo: BH, Rcpp
+Suggests: jsonlite, testthat, knitr
+License: MIT + file LICENSE
+MD5sum: b75216e6f311e8ceb96e703c8bbf5b62
+NeedsCompilation: yes
+
 Package: redux
 Version: 0.4.0
 Imports: RedisAPI (>= 0.4.0)
