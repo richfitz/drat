@@ -2,6 +2,7 @@ richfitz/storr
 richfitz/remake
 richfitz/redux
 richfitz/drat.builder
+richfitz/seagull
 richfitz/sowsear
 richfitz/toxiproxyr
 traitecoevo/dockertest
