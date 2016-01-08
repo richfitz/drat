@@ -62,6 +62,14 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 2a7d03a5408d8181c762672b2b852c0e
 NeedsCompilation: no
 
+Package: seagull
+Version: 0.0.1
+Imports: R6
+Suggests: parallel, testthat
+License: MIT + file LICENSE
+MD5sum: 29fba8f25f7ed0305f7b63a5581f8122
+NeedsCompilation: yes
+
 Package: sowsear
 Version: 0.1-1
 Depends: R (>= 2.10)
