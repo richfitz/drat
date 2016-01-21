@@ -26,13 +26,13 @@ MD5sum: 419dc81b49c3060dd130f4d4790e0402
 NeedsCompilation: no
 
 Package: jqr
-Version: 0.1.7.9330
+Version: 0.1.8.9010
 Depends: R (>= 3.1.2)
 Imports: Rcpp, lazyeval, magrittr
 LinkingTo: BH, Rcpp
 Suggests: jsonlite, testthat, knitr
 License: MIT + file LICENSE
-MD5sum: b75216e6f311e8ceb96e703c8bbf5b62
+MD5sum: a86b5ea9f4d34d6e8ce12658aa6a25bd
 NeedsCompilation: yes
 
 Package: RedisAPI
