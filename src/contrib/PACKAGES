@@ -65,9 +65,9 @@ NeedsCompilation: no
 Package: seagull
 Version: 0.0.1
 Imports: R6
-Suggests: parallel, testthat
+Suggests: parallel, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: 29fba8f25f7ed0305f7b63a5581f8122
+MD5sum: f93ff5f66ce492a8f7af55e759bd5d28
 NeedsCompilation: yes
 
 Package: sowsear
