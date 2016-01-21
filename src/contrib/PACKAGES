@@ -3,7 +3,7 @@ Version: 0.0.3
 Imports: curl, drat, storr (>= 0.5.1)
 Suggests: codetools, knitr, rmarkdown, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: a5de67607f3fcfb284903a02f0bd0ed0
+MD5sum: b2e57c1df3478f22d30e2151be072f4e
 NeedsCompilation: no
 
 Package: dockertest
