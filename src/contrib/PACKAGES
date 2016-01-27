@@ -1,9 +1,9 @@
 Package: context
-Version: 0.0.3
+Version: 0.0.4
 Imports: curl, drat, storr (>= 0.5.1)
 Suggests: codetools, knitr, rmarkdown, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: 077749c44f6894cdfd9f732017ada655
+MD5sum: 8605d65735d71f8b6d6daecea7362a12
 NeedsCompilation: no
 
 Package: dockertest
