@@ -67,7 +67,7 @@ Version: 0.0.1
 Imports: R6
 Suggests: parallel, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: f93ff5f66ce492a8f7af55e759bd5d28
+MD5sum: 16154753830f6f8ad7e1dd6bf9517287
 NeedsCompilation: yes
 
 Package: sowsear
