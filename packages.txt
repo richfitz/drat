@@ -5,7 +5,10 @@ richfitz/drat.builder
 richfitz/seagull
 richfitz/sowsear
 richfitz/toxiproxyr
+richfitz/queuer
+richfitz/buildr
 traitecoevo/dockertest
 ropensci/jqr
 ropensci/RedisAPI
 dide-tools/context
+dide-tools/didewin
