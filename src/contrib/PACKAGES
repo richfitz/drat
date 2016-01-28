@@ -1,3 +1,11 @@
+Package: buildr
+Version: 0.0.1
+Imports: R6, httr, jsonlite
+Suggests: context, httpuv, parallel, queuer, testthat
+License: MIT + file LICENSE
+MD5sum: 0783ae908afd2a5264c1509ce5e280af
+NeedsCompilation: no
+
 Package: context
 Version: 0.0.4
 Imports: curl, drat, storr (>= 0.5.1)
