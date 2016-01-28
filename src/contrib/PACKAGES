@@ -35,6 +35,14 @@ License: MIT + file LICENSE
 MD5sum: a86b5ea9f4d34d6e8ce12658aa6a25bd
 NeedsCompilation: yes
 
+Package: queuer
+Version: 0.0.1
+Imports: R6, context, progress
+Suggests: parallel, seagull, testthat
+License: MIT + file LICENSE
+MD5sum: a8929d3f635c07f194ad9ed504011781
+NeedsCompilation: no
+
 Package: RedisAPI
 Version: 0.4.0
 Depends: R (>= 3.1.2)
