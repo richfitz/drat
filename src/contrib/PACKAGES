@@ -14,6 +14,14 @@ License: MIT + file LICENSE
 MD5sum: 1f2028d42e951e3eaab1b36c91e8dcb6
 NeedsCompilation: no
 
+Package: didewin
+Version: 0.0.1
+Imports: base64enc, crayon, context, httr, whisker
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 51114a33a41b52125f11b1355b4f089c
+NeedsCompilation: no
+
 Package: dockertest
 Version: 0.2.1
 Depends: R (>= 3.1.0)
