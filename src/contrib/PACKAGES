@@ -56,7 +56,7 @@ Version: 0.0.1
 Imports: R6, context, progress
 Suggests: parallel, seagull, testthat
 License: MIT + file LICENSE
-MD5sum: a8929d3f635c07f194ad9ed504011781
+MD5sum: 57dec093669412018356eb2c74a555fc
 NeedsCompilation: no
 
 Package: RedisAPI
