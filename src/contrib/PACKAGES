@@ -3,7 +3,7 @@ Version: 0.0.1
 Imports: R6, httr, jsonlite
 Suggests: context, httpuv, parallel, queuer, testthat
 License: MIT + file LICENSE
-MD5sum: 0783ae908afd2a5264c1509ce5e280af
+MD5sum: d8d44434216f7066ba9898f48843e80e
 NeedsCompilation: no
 
 Package: context
