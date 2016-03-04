@@ -16,10 +16,11 @@ NeedsCompilation: no
 
 Package: didewin
 Version: 0.0.1
-Imports: base64enc, crayon, context, httr, whisker
-Suggests: testthat
+Imports: crayon, context, getPass, httr (>= 1.0.0), queuer, storr,
+        whisker
+Suggests: buildr, testthat
 License: MIT + file LICENSE
-MD5sum: 51114a33a41b52125f11b1355b4f089c
+MD5sum: c785f540f39b820b3efdbf90ef15c3b7
 NeedsCompilation: no
 
 Package: dockertest
