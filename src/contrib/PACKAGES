@@ -7,11 +7,11 @@ MD5sum: d8d44434216f7066ba9898f48843e80e
 NeedsCompilation: no
 
 Package: context
-Version: 0.0.4
-Imports: curl, drat, storr (>= 0.5.1)
+Version: 0.0.5
+Imports: curl, drat, storr (>= 1.0.0)
 Suggests: codetools, knitr, rmarkdown, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: 1f2028d42e951e3eaab1b36c91e8dcb6
+MD5sum: 4562d46f06eda14e9c8d5bc76cc56b0e
 NeedsCompilation: no
 
 Package: didewin
