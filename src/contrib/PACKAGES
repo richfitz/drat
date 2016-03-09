@@ -54,10 +54,10 @@ NeedsCompilation: yes
 
 Package: queuer
 Version: 0.0.1
-Imports: R6, context, progress
+Imports: R6, context, lazyeval, progress
 Suggests: parallel, seagull, testthat
 License: MIT + file LICENSE
-MD5sum: 57dec093669412018356eb2c74a555fc
+MD5sum: 0f08273a7bdba86eda3d01938b2c8e4e
 NeedsCompilation: no
 
 Package: RedisAPI
