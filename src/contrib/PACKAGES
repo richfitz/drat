@@ -20,7 +20,7 @@ Imports: crayon, context, getPass, httr (>= 1.0.0), queuer, storr,
         whisker
 Suggests: buildr, testthat
 License: MIT + file LICENSE
-MD5sum: c785f540f39b820b3efdbf90ef15c3b7
+MD5sum: 127f7bd32f74f0614ccd752c2ed1cb07
 NeedsCompilation: no
 
 Package: dockertest
