@@ -84,7 +84,7 @@ Imports: R6 (>= 2.0.0), digest, yaml, codetools, crayon, optparse,
         storr (>= 0.5.0)
 Suggests: testthat, DiagrammeR, knitr, downloader, devtools
 License: BSD_2_clause + file LICENSE
-MD5sum: f99b18d4bc5fab05d3f1cbdadf66de71
+MD5sum: c585511e818a39bbe4a7726baaff6c74
 NeedsCompilation: no
 
 Package: seagull
