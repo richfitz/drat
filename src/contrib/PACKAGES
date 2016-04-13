@@ -11,7 +11,7 @@ Version: 0.0.6
 Imports: curl, drat, storr (>= 1.0.0)
 Suggests: codetools, knitr, parallel, rmarkdown, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: dac22f15bc07919aa354f1d3c3a29c75
+MD5sum: a4ceed0daf22e2153b2c3a8a64ee80bc
 NeedsCompilation: no
 
 Package: didewin
