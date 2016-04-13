@@ -30,7 +30,7 @@ Imports: callr, devtools (>= 1.8.0), yaml, httr, jsonlite, rappdirs,
         docopt
 Suggests: testthat, remake
 License: BSD_2_clause + file LICENSE
-MD5sum: 5189e2c137f0908d89dad3f349a23b9c
+MD5sum: c35a30dfa5f8c4c6b9dc31d4dd8e590a
 NeedsCompilation: no
 
 Package: drat.builder
