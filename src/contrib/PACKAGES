@@ -103,12 +103,12 @@ MD5sum: 2b6471709b580d1be6edacfbb36fcdf5
 NeedsCompilation: no
 
 Package: storr
-Version: 1.0.0
+Version: 1.0.1
 Depends: R (>= 3.1.0)
 Imports: R6 (>= 2.1.0), digest
 Suggests: DBI, RSQLite, knitr, microbenchmark, testthat
 License: MIT + file LICENSE
-MD5sum: 87cb8b8c749177996ea60445190a3463
+MD5sum: bc4d3cca3afd9884d9418056d271f61c
 NeedsCompilation: no
 
 Package: toxiproxyr
