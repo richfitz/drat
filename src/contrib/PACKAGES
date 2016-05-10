@@ -106,9 +106,9 @@ Package: storr
 Version: 1.0.1
 Depends: R (>= 3.1.0)
 Imports: R6 (>= 2.1.0), digest
-Suggests: DBI, RSQLite, knitr, microbenchmark, testthat
+Suggests: DBI, RSQLite, knitr, microbenchmark, testthat (>= 1.0.0)
 License: MIT + file LICENSE
-MD5sum: bc4d3cca3afd9884d9418056d271f61c
+MD5sum: e191c8dc9027754d150401af9cfda159
 NeedsCompilation: no
 
 Package: toxiproxyr
