@@ -43,13 +43,13 @@ MD5sum: 10aa70573403be1972e6d297dfdef25a
 NeedsCompilation: no
 
 Package: jqr
-Version: 0.2.0.9000
+Version: 0.2.3
 Depends: R (>= 3.1.2)
 Imports: Rcpp, lazyeval, magrittr
 LinkingTo: BH, Rcpp
 Suggests: jsonlite, testthat, knitr, covr
 License: MIT + file LICENSE
-MD5sum: 899a9fd83b759b7417218fb5373ddad8
+MD5sum: 416ec5723bd6de39bc7aa9157c2df073
 NeedsCompilation: yes
 
 Package: queuer
