@@ -17,11 +17,12 @@ NeedsCompilation: no
 
 Package: didewin
 Version: 0.0.1
-Imports: crayon, context, getPass, httr (>= 1.0.0), queuer, storr,
-        whisker
+Depends: R (>= 3.2.2)
+Imports: crayon, context (>= 0.0.6), getPass, httr (>= 1.0.0),
+        progress, queuer, rematch, storr, whisker
 Suggests: buildr, testthat
 License: MIT + file LICENSE
-MD5sum: 19a19f70453ce11805f0982013d111fc
+MD5sum: 15f1ed94f87e73730b05fbb34b9974fb
 NeedsCompilation: no
 
 Package: dockertest
