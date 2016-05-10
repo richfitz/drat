@@ -8,10 +8,11 @@ NeedsCompilation: no
 
 Package: context
 Version: 0.0.6
-Imports: curl, drat, storr (>= 1.0.0)
+Depends: R (>= 3.2.2)
+Imports: curl, drat (>= 0.1.0), storr (>= 1.0.0), uuid
 Suggests: codetools, knitr, parallel, rmarkdown, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: 122144c8518c3cb6dc3396371166cdc0
+MD5sum: 0e60300bd09a4a87bc9a57d9dd53a6cc
 NeedsCompilation: no
 
 Package: didewin
