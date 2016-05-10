@@ -44,6 +44,14 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 10aa70573403be1972e6d297dfdef25a
 NeedsCompilation: no
 
+Package: ids
+Version: 0.0.1
+Imports: uuid
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: af63304e8559aa0b0013087b1bc1b548
+NeedsCompilation: no
+
 Package: jqr
 Version: 0.2.3
 Depends: R (>= 3.1.2)
