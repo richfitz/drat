@@ -45,11 +45,11 @@ MD5sum: 10aa70573403be1972e6d297dfdef25a
 NeedsCompilation: no
 
 Package: ids
-Version: 0.0.1
-Imports: uuid
+Version: 0.0.2
+Imports: openssl, uuid
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: af63304e8559aa0b0013087b1bc1b548
+MD5sum: f806e284022979e6e3633c82835bfda5
 NeedsCompilation: no
 
 Package: jqr
