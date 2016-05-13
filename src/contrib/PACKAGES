@@ -63,12 +63,12 @@ MD5sum: a5c5af3fe254763d34049c229d8ca9d9
 NeedsCompilation: yes
 
 Package: queuer
-Version: 0.0.1
+Version: 0.0.2
 Depends: R (>= 3.2.2)
-Imports: R6, context, ids (>= 0.0.2), lazyeval, progress
+Imports: R6, context (>= 0.0.7), ids (>= 0.0.2), lazyeval, progress
 Suggests: parallel, seagull, testthat
 License: MIT + file LICENSE
-MD5sum: 8d4b9c398998717248cdfd0dcb7b745c
+MD5sum: 6c6ff369d9d06493bd473884f1ffdb53
 NeedsCompilation: no
 
 Package: RedisAPI
