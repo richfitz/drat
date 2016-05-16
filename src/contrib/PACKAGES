@@ -22,7 +22,7 @@ Imports: crayon, context (>= 0.0.7), getPass, httr (>= 1.0.0),
         progress, queuer (>= 0.0.2), rematch, storr, whisker, xml2
 Suggests: buildr, testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 957af882bca3a441d353fc4b2410036e
+MD5sum: f1c30ab77ea907f3b05f69df97b17fda
 NeedsCompilation: no
 
 Package: dockertest
