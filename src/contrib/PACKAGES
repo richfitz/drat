@@ -68,7 +68,7 @@ Depends: R (>= 3.2.2)
 Imports: R6, context (>= 0.0.7), ids (>= 0.0.2), lazyeval, progress
 Suggests: parallel, seagull, testthat
 License: MIT + file LICENSE
-MD5sum: f7457cd12fffb7d97740ecfe81c6283b
+MD5sum: 23dd8ed632c4572c0161dafd9d8b579f
 NeedsCompilation: no
 
 Package: RedisAPI
