@@ -62,6 +62,14 @@ License: MIT + file LICENSE
 MD5sum: a5c5af3fe254763d34049c229d8ca9d9
 NeedsCompilation: yes
 
+Package: odin
+Version: 0.0.1
+Imports: R6, deSolve
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 4b0e7217a1d62dc2703a1a370f86a00a
+NeedsCompilation: no
+
 Package: queuer
 Version: 0.0.2
 Depends: R (>= 3.2.2)
