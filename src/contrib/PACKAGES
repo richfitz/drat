@@ -16,13 +16,13 @@ MD5sum: c19cedecc45b6e6f3ddd01a5478d26a5
 NeedsCompilation: no
 
 Package: didewin
-Version: 0.0.2
+Version: 0.0.3
 Depends: R (>= 3.2.2)
 Imports: crayon, context (>= 0.0.7), getPass, httr (>= 1.0.0),
-        progress, queuer (>= 0.0.2), rematch, storr, whisker, xml2
+        progress, queuer (>= 0.0.3), rematch, storr, whisker, xml2
 Suggests: buildr, testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 28c2b054a34586b4a3d2e40c6ac52cf1
+MD5sum: 9880becf5df2092eeb08c5ef212d8661
 NeedsCompilation: no
 
 Package: dockertest
