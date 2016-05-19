@@ -19,10 +19,10 @@ Package: didewin
 Version: 0.0.3
 Depends: R (>= 3.2.2)
 Imports: crayon, context (>= 0.0.7), getPass, httr (>= 1.0.0),
-        progress, queuer (>= 0.0.3), rematch, storr, whisker, xml2
+        progress, queuer (>= 0.0.4), rematch, storr, whisker, xml2
 Suggests: buildr, testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 9880becf5df2092eeb08c5ef212d8661
+MD5sum: 281eb24cdf98eba7282a5d66105d7961
 NeedsCompilation: no
 
 Package: dockertest
