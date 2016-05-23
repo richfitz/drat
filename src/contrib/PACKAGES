@@ -130,6 +130,13 @@ License: MIT + file LICENSE
 MD5sum: 82382a72ffef91f657342a62c6c907c0
 NeedsCompilation: no
 
+Package: syncr
+Version: 0.0.1
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 3bdb9ef33e3e9ef9194b8f63ea658fcb
+NeedsCompilation: no
+
 Package: toxiproxyr
 Version: 0.0.1
 Imports: R6, httr, jsonlite
