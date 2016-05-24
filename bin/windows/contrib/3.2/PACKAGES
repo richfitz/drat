@@ -1,0 +1,7 @@
+Package: seagull
+Version: 0.0.1
+Imports: R6
+Suggests: parallel, testthat (>= 0.11.0)
+License: MIT + file LICENSE
+Archs: i386, x64
+
