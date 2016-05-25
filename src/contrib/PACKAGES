@@ -20,9 +20,9 @@ Version: 0.0.3
 Depends: R (>= 3.2.2)
 Imports: crayon, context (>= 0.0.7), getPass, httr (>= 1.0.0),
         progress, queuer (>= 0.0.4), rematch, storr, whisker, xml2
-Suggests: buildr, testthat, knitr, rmarkdown
+Suggests: buildr, knitr, rmarkdown, syncr, testthat
 License: MIT + file LICENSE
-MD5sum: d34e925734c9d55141542d46963a0caa
+MD5sum: a20dc72a0e3047b69d585add837a74d6
 NeedsCompilation: no
 
 Package: dockertest
