@@ -49,7 +49,7 @@ Version: 0.0.2
 Imports: openssl, uuid
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: f806e284022979e6e3633c82835bfda5
+MD5sum: a61a67d2708fb18c3c4953f1b46f365e
 NeedsCompilation: no
 
 Package: jqr
