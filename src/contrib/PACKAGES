@@ -106,6 +106,15 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 00e7d29ea54281caf55fc6e0896f350f
 NeedsCompilation: no
 
+Package: rrq
+Version: 0.0.1
+Imports: R6, context, docopt, ids, lazyeval, progress, queuer (>=
+        0.0.4), redux (>= 0.5.0)
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: ce126d6823126bae7db69a19a23bea88
+NeedsCompilation: no
+
 Package: seagull
 Version: 0.0.1
 Imports: R6
