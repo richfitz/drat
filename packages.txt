@@ -1,8 +1,8 @@
+richfitz/ids
 richfitz/storr
 richfitz/remake
 richfitz/redux@merge_with_api
 richfitz/drat.builder
-richfitz/ids
 richfitz/odin
 richfitz/seagull
 richfitz/sowsear
