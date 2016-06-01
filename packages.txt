@@ -10,6 +10,7 @@ richfitz/toxiproxyr
 richfitz/syncr
 richfitz/queuer
 richfitz/buildr
+richfitz/rrq
 traitecoevo/dockertest
 ropensci/jqr
 ropensci/RedisAPI
