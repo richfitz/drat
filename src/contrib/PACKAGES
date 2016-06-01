@@ -89,11 +89,11 @@ MD5sum: a6f534cbb4eecec57e26cabc8be03b88
 NeedsCompilation: no
 
 Package: redux
-Version: 0.4.0
-Imports: RedisAPI (>= 0.4.0)
-Suggests: knitr, testthat
+Version: 0.5.0
+Imports: R6, RApiSerialize
+Suggests: RcppRedis, knitr, methods, rmarkdown, testthat
 License: GPL-2
-MD5sum: 3fcc90ff27440f3661779585b306a346
+MD5sum: f29f5dbd0c9af44830bb23bcf8a24b07
 NeedsCompilation: yes
 
 Package: remake
