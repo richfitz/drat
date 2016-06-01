@@ -1,0 +1,9 @@
+#!/usr/bin/env Rscript
+packages <- commandArgs(TRUE)
+ok <- file.exists(packages)
+if (any(!ok)) {
+  stop("Files not found: ", paste(packages[!ok]))
+}
+for (p in packages) {
+  drat::insertPackage(p, ".")
+}
