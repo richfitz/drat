@@ -47,9 +47,9 @@ NeedsCompilation: no
 Package: ids
 Version: 0.0.2
 Imports: openssl, uuid
-Suggests: testthat
+Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: a61a67d2708fb18c3c4953f1b46f365e
+MD5sum: 11af5405a80bd18603ad568eb09eb8fd
 NeedsCompilation: no
 
 Package: jqr
