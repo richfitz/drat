@@ -1,6 +1,6 @@
 richfitz/storr
 richfitz/remake
-richfitz/redux
+richfitz/redux@merge_with_api
 richfitz/drat.builder
 richfitz/ids
 richfitz/odin
