@@ -112,7 +112,7 @@ Imports: R6, context, docopt, ids, lazyeval, progress, queuer (>=
         0.0.4), redux (>= 0.5.0)
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: ce126d6823126bae7db69a19a23bea88
+MD5sum: b3aca13c9059ce9fb92d99dac99fb5aa
 NeedsCompilation: no
 
 Package: seagull
