@@ -16,3 +16,4 @@ ropensci/jqr
 ropensci/RedisAPI
 dide-tools/context
 dide-tools/didewin
+hackout3/cleanr
