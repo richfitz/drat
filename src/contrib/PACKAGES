@@ -6,6 +6,15 @@ License: MIT + file LICENSE
 MD5sum: d8d44434216f7066ba9898f48843e80e
 NeedsCompilation: no
 
+Package: cleanr
+Version: 0.0.0.9000
+Depends: R (>= 3.0.0)
+Imports: stringr, yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: e328db5becdea3aa2d1d1a9fe3752384
+NeedsCompilation: no
+
 Package: context
 Version: 0.0.8
 Depends: R (>= 3.2.2)
