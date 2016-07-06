@@ -12,7 +12,7 @@ Depends: R (>= 3.0.0)
 Imports: stringr, yaml
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: e328db5becdea3aa2d1d1a9fe3752384
+MD5sum: 7c4ab1c9c7d4375e88ec77a5f8935d0b
 NeedsCompilation: no
 
 Package: context
