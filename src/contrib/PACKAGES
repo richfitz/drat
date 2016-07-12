@@ -72,11 +72,11 @@ MD5sum: a5c5af3fe254763d34049c229d8ca9d9
 NeedsCompilation: yes
 
 Package: odin
-Version: 0.0.1
+Version: 0.0.2
 Imports: R6, deSolve
-Suggests: testthat, knitr, rmarkdown
+Suggests: dde, knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 4b0e7217a1d62dc2703a1a370f86a00a
+MD5sum: b328fd5d5a76e74316288fa5d7b424cf
 NeedsCompilation: no
 
 Package: queuer
