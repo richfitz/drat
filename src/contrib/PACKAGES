@@ -145,7 +145,7 @@ Depends: R (>= 3.1.0)
 Imports: R6 (>= 2.1.0), digest
 Suggests: DBI, RSQLite, knitr, microbenchmark, testthat (>= 1.0.0)
 License: MIT + file LICENSE
-MD5sum: 82382a72ffef91f657342a62c6c907c0
+MD5sum: bf1e374dfb2b05e8abdc3dbfe1aba33a
 NeedsCompilation: no
 
 Package: syncr
