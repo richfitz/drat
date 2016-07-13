@@ -1,5 +1,5 @@
 Package: redux
-Version: 0.5.0
+Version: 0.5.1
 Imports: R6, RApiSerialize
 Suggests: RcppRedis, knitr, methods, rmarkdown, testthat
 License: GPL-2
