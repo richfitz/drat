@@ -117,11 +117,11 @@ NeedsCompilation: no
 
 Package: rrq
 Version: 0.0.1
-Imports: R6, context, docopt, ids, lazyeval, progress, queuer (>=
-        0.0.4), redux (>= 0.5.0)
+Imports: R6, context (>= 0.0.9), docopt, ids, lazyeval, progress,
+        queuer (>= 0.0.4), redux (>= 0.5.1)
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 4a7983acaf5d068544874a740f1fe090
+MD5sum: df380c8f9660a47fd35c885de8bb0472
 NeedsCompilation: no
 
 Package: seagull
