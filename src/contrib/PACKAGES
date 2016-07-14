@@ -21,7 +21,7 @@ Depends: R (>= 3.2.2)
 Imports: crayon, curl, drat (>= 0.1.0), storr (>= 1.0.0), uuid
 Suggests: codetools, knitr, parallel, rmarkdown, testthat (>= 0.11.0)
 License: MIT + file LICENSE
-MD5sum: 5bdf5f8446a533337383a3d837b0668b
+MD5sum: 3c6b8284935b46dc382bf896ba4bdc4b
 NeedsCompilation: no
 
 Package: didewin
