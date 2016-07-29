@@ -3,7 +3,7 @@ Version: 0.0.1
 Imports: R6, httr, jsonlite
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 097cc9b3aad9f4b5bb5a6d1a7e87c35d
+MD5sum: 1ea60f51276d1816b4c3b3ebc7e4e818
 NeedsCompilation: no
 
 Package: cleanr
