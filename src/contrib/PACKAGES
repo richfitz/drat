@@ -77,7 +77,7 @@ Version: 0.0.2
 Imports: R6, deSolve
 Suggests: dde, knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 3817df309374e2c6a76fa35ac6b9508f
+MD5sum: f4d33cd13d911cda0be855c5bf73eeed
 NeedsCompilation: no
 
 Package: queuer
