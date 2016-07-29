@@ -1,7 +1,23 @@
+Package: jqr
+Version: 0.2.4.9000
+Depends: R (>= 3.1.2)
+Imports: Rcpp, lazyeval, magrittr
+LinkingTo: BH, Rcpp
+Suggests: jsonlite, testthat, knitr, covr
+License: MIT + file LICENSE
+Archs: i386, x64
+
 Package: redux
 Version: 0.5.1
 Imports: R6, RApiSerialize
 Suggests: RcppRedis, knitr, methods, rmarkdown, testthat
 License: GPL-2
+Archs: i386, x64
+
+Package: seagull
+Version: 0.0.1
+Imports: R6
+Suggests: parallel, testthat (>= 0.11.0)
+License: MIT + file LICENSE
 Archs: i386, x64
 
