@@ -69,7 +69,7 @@ Imports: Rcpp, lazyeval, magrittr
 LinkingTo: BH, Rcpp
 Suggests: jsonlite, testthat, knitr, covr
 License: MIT + file LICENSE
-MD5sum: 54bac8da79ae1c95774cb50ae95b1408
+MD5sum: 64f1826eaf271aa91f42f9129bbb6518
 NeedsCompilation: yes
 
 Package: odin
