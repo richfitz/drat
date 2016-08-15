@@ -1,9 +1,9 @@
 Package: buildr
-Version: 0.0.1
+Version: 0.0.2
 Imports: R6, httr, jsonlite
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: abbacf1c73bf0cb04a9c444fbceff6ed
+MD5sum: 5b1ad35d5d3618c1d62e35a45dc9ae53
 NeedsCompilation: no
 
 Package: cleanr
