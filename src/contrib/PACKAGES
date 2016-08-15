@@ -32,7 +32,7 @@ Imports: crayon, context (>= 0.0.10), getPass, httr (>= 1.0.0),
         1.0.0)
 Suggests: buildr, knitr, redux, rmarkdown, rrq, syncr, testthat
 License: MIT + file LICENSE
-MD5sum: f97bbe5f7da2129c8d791f3964624502
+MD5sum: 71645fb7b1f2726105fb998ed8fcde74
 NeedsCompilation: no
 
 Package: dockertest
