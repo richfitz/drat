@@ -73,13 +73,12 @@ MD5sum: 285b543a2ef1748639b8063107f3c243
 NeedsCompilation: no
 
 Package: jqr
-Version: 0.2.4.9000
+Version: 0.2.9000
 Depends: R (>= 3.1.2)
-Imports: Rcpp, lazyeval, magrittr
-LinkingTo: BH, Rcpp
-Suggests: jsonlite, testthat, knitr, covr
+Imports: magrittr, lazyeval
+Suggests: jsonlite, testthat, knitr
 License: MIT + file LICENSE
-MD5sum: 64f1826eaf271aa91f42f9129bbb6518
+MD5sum: e2b664f82b5731231ae2a88ebfaa8123
 NeedsCompilation: yes
 
 Package: odin
