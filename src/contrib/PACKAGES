@@ -98,6 +98,14 @@ License: MIT + file LICENSE
 MD5sum: 4ee1318e3854f9ec6b0501d28d0356ff
 NeedsCompilation: no
 
+Package: rcmdshlib
+Version: 0.0.1
+Imports: crayon
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: aeaccccba90224c11fe6f1cd3c5743b9
+NeedsCompilation: no
+
 Package: RedisAPI
 Version: 0.4.0
 Depends: R (>= 3.1.2)
