@@ -75,10 +75,10 @@ NeedsCompilation: yes
 
 Package: odin
 Version: 0.0.2
-Imports: R6, deSolve
-Suggests: dde (>= 0.0.2), knitr, rmarkdown, testthat
+Imports: R6, crayon, deSolve
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: ef9b6aef697e95910196f46f914b7c34
+MD5sum: 68bc32f25f35311192779185d985efd5
 NeedsCompilation: no
 
 Package: queuer
