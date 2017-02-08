@@ -104,7 +104,7 @@ Version: 0.5.1
 Imports: R6, RApiSerialize
 Suggests: RcppRedis, knitr, methods, rmarkdown, testthat
 License: GPL-2
-MD5sum: 69cb222d9a4aee4dbdeac161071fd02a
+MD5sum: d70718faea1cac69df89c6acd3064208
 NeedsCompilation: yes
 
 Package: remake
