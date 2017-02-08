@@ -172,7 +172,7 @@ Package: syncr
 Version: 0.0.1
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: ac89ac45c4dfc3dd4bfb78726d299099
+MD5sum: 9703cce070ec99e9f4f5b2b346dbe4ff
 NeedsCompilation: no
 
 Package: toxiproxyr
