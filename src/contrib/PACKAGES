@@ -127,6 +127,14 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 66e6622666b1451095e418c89271da23
 NeedsCompilation: no
 
+Package: ring
+Version: 0.0.5
+Imports: R6
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: c1f28f3ecebdec7f03de1b1ea8617031
+NeedsCompilation: yes
+
 Package: rrq
 Version: 0.0.1
 Imports: R6, context (>= 0.0.9), docopt, ids, lazyeval, progress,
