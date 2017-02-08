@@ -49,11 +49,10 @@ NeedsCompilation: no
 Package: dockertest
 Version: 0.2.1
 Depends: R (>= 3.1.0)
-Imports: callr, devtools (>= 1.8.0), yaml, httr, jsonlite, rappdirs,
-        docopt
-Suggests: testthat, remake
+Imports: devtools (>= 1.8.0), docopt, httr, jsonlite, rappdirs, yaml
+Suggests: remake, testthat
 License: BSD_2_clause + file LICENSE
-MD5sum: c35a30dfa5f8c4c6b9dc31d4dd8e590a
+MD5sum: 957e35c65a7127a83a4a388ef440eb72
 NeedsCompilation: no
 
 Package: drat.builder
