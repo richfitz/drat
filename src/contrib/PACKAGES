@@ -56,11 +56,11 @@ MD5sum: ee16a8a1847ae5562a5203a440c41a45
 NeedsCompilation: no
 
 Package: ids
-Version: 0.0.2
+Version: 1.0.1
 Imports: openssl, uuid
-Suggests: knitr, rmarkdown, testthat
+Suggests: knitr, rcorpora, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 11af5405a80bd18603ad568eb09eb8fd
+MD5sum: 285b543a2ef1748639b8063107f3c243
 NeedsCompilation: no
 
 Package: jqr
