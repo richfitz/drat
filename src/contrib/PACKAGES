@@ -43,7 +43,7 @@ Imports: crayon, context (>= 0.0.10), getPass, httr (>= 1.0.0),
 Suggests: buildr (>= 0.0.2), drat, knitr, redux, rmarkdown, rrq, syncr,
         testthat
 License: MIT + file LICENSE
-MD5sum: af89144cb644227e8a68ab0912080823
+MD5sum: f357ca09683b1fa853447a29bf5c6b5a
 NeedsCompilation: no
 
 Package: dockertest
